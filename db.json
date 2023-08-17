@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Username": "sakshi",
+      "Avatar": "https://banner2.cleanpng.com/20180331/czw/kisspng-computer-icons-user-profile-female-avatar-user-5abff416099122.7881303215225293020392.jpg",
+      "Email": "sakshi@gmail.com",
+      "Password": "sakshi"
+    },
+    {
+      "Username": "dfsdsag",
+      "Avatar": "sg",
+      "Email": "john@example.com",
+      "Password": "dsg as",
+      "id": 2
+    }
+  ],
+  "forum": [
+    {
+      "username": "sakshi",
+      "title": "array",
+      "description": "explain concept of array",
+      "language": "Python",
+      "postedDate": "2023-08-17",
+      "id": 1
+    }
+  ]
+}
